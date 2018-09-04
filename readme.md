@@ -1,4 +1,4 @@
-#DeepFigures - A repository of figures to explain deep learning concepts
+# DeepFigures - A repository of figures to explain deep learning concepts
 ## Designed by Marie Roald and Yngve Mardal Moe
 ## Created in Adobe Illustrator by Marie Roald
 
