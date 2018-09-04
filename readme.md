@@ -10,4 +10,4 @@ Currently, only PDF versions of the figures are available, but both SVGs and Ado
 ## Dilated convolutions
 ![Dilated convolution figure](https://raw.githubusercontent.com/MarieRoald/DeepFigures/master/svg/2Dconv_dilated/Dilated2D.svg?sanitize=true)
 
-[PDF](https://github.com/MarieRoald/DeepFigures/tree/master/PDF/2Dconv_dilated/) | [SVG](hhttps://github.com/MarieRoald/DeepFigures/tree/master/SVG/2Dconv_dilated/) | [SOURCE](https://github.com/MarieRoald/DeepFigures/tree/master/AI/2Dconv_dilated/)
+[PDF](https://github.com/MarieRoald/DeepFigures/tree/master/PDF/2Dconv_dilated/) | [SVG](https://github.com/MarieRoald/DeepFigures/tree/master/SVG/2Dconv_dilated/) | [SOURCE](https://github.com/MarieRoald/DeepFigures/tree/master/AI/2Dconv_dilated/)
