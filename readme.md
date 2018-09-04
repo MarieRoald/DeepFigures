@@ -7,6 +7,7 @@ Currently, only PDF versions of the figures are available, but both SVGs and Ado
 
 
 # Gallery
+Note that the font used in the figures are PT Sans, which, unfortunately doesn't show in the SVGs. The images in the gallery is therefore (currently) with the wrong font.
 ## Dilated convolutions
 ![Dilated convolution figure](https://raw.githubusercontent.com/MarieRoald/DeepFigures/master/svg/2Dconv_dilated/Dilated2D.svg?sanitize=true)
 
